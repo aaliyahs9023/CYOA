@@ -1,2 +1,3 @@
 ### You arrive at a haunted house with your friends. Choose wisely if you want to survive ...
 
+![](pictures/borley.jpg) 
