@@ -1,0 +1,5 @@
+### You entered the kitchen and quickly grab a knife. Oh no what was that sound you heard you turn around and ...
+
+![](youdied.gif)
+
+BAM!You died. You were so close [try again?]README.md)
