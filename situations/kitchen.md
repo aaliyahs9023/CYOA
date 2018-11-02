@@ -1,5 +1,7 @@
-### You entered the kitchen and quickly grab a knife. Oh no what was that sound you heard you turn around and ...
+### You have chose the left door
 
-![](../pictures/youdied.gif)
+You are now in the kitchen.
 
-BAM! You died. You were so close [try again?](../haunted-house.md)
+What would be your choice of weapon?
+
+A [knife](knife) or a [pan](pan)?
