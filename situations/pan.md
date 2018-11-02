@@ -1,1 +1,1 @@
-You chose the pan
+You chose the pan. 
