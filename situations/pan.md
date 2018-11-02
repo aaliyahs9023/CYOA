@@ -1,5 +1,5 @@
 
 ## You chose the pan. 
-![](../pictures/tenor.gif)
+![](../pictures/tenor.gif)  
 You escaped congrats!
 
