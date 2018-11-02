@@ -4,4 +4,4 @@
   <img src="pictures/borley.jpg">
 </p>
  
-Do you want to [leave](leave.md) or do you [stay](stay.md)?
+Do you want to [**leave**](leave.md) or do you [**stay**](stay.md)?
