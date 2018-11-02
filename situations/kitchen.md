@@ -4,4 +4,4 @@ You are now in the kitchen.
 
 What would be your choice of weapon?
 
-A [knife](knife) or a [pan](pan)?
+A [knife](knife.md) or a [pan](pan.md)?
