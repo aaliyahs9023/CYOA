@@ -2,4 +2,4 @@
 
 ![](youdied.gif)
 
-BAM!You died. You were so close [try again?]README.md)
+BAM! You died. You were so close [try again?](../haunted-house.md)
