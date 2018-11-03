@@ -1,9 +1,3 @@
-# You're trapped forever.
+## How will you befriend  the misty figure in the basement?
 
-You have attempted to befriend the misty figure ...
-
-You have suceeded!
-
-However, you are now trapped in the haunted house forever and can never leave.
-
-Do you want to [restart](../README.md)
+Will you tell her that [she's pretty](you-are-pretty.md) or tell her that she's [your new friend](hello-new-friend.md)
