@@ -2,4 +2,4 @@
 
 ![](../pictures/two-doors.jpg)
 
-Which door do you choose, [left](left) or [right](right)?
+Which door do you choose, [left](kitchen.md) or [right](basement.md)?
