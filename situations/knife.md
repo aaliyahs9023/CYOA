@@ -4,4 +4,4 @@ You turn around and a knife goes into your head instead.
 
 ![](../images/you-died.gif)
 
-Would you like to [restart](../haunted-house.md)?
+Would you like to [restart](../README.md)?
