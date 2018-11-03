@@ -1,5 +1,5 @@
 
-## You chose the pan. 
+## You chose the pan and beat the monster before she could kill you.
 ![](../pictures/tenor.gif)  
 ### You escaped congrats!
 
