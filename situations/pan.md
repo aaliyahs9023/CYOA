@@ -1,7 +1,11 @@
+## You chose the pan.
 
-## You chose the pan and beat the monster before she could kill you.
-![](../pictures/tenor.gif)  
-### You escaped congrats!
+<p align="center">
+  <img src="../pictures/tenor.gif"/>
+</p>
 
-Would you like to [restart](../README.md) for a different ending?
+<h3 align="center">You smashed the misty figure in the head with your crusty pan and beat the monster before she could kill you.</h3>
+<h2 align="center">You escaped congrats!</h2>
+
+<h3 align="center">Would you like to <a href="../README.md">restart</a> for a different ending?</h3>
 

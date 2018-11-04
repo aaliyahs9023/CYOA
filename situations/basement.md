@@ -1,7 +1,13 @@
-### You have chosen the right door.
+## You have chosen the right door.
 
-You are now in the basement. 
-![](../pictures/basement.gif)
-You see a misty figure in front of you.
+<h3 align="center">You are now in the basement.</h3>
 
-Will you [**fight it**](fight.md) or [**befriend it**](befriend.md)?
+<p align="center">
+  <img src="../pictures/basement.gif"/>
+</p>
+
+<h4 align="center">You see a misty figure in front of you.</h4>
+<h3 align="center">
+  Will you <a href="fight.md">fight it</a> or <a href="befriend.md"> befriend it</a>?
+</h3>
+
