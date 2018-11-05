@@ -6,4 +6,4 @@
 
 <h2 align="center">You died!</h2>
 
-<h3 align="center">Better luck <a href="../README.md">next time</a>?</h3>
+<h3 align="center">Better luck <a href="../haunted-house.md">next time</a>?</h3>

@@ -4,4 +4,4 @@
 
 ### But you can never leave her side. Was it worth it?
 
-### Click here to [restart](../README.md) the game.
+### Click here to [restart](../haunted-house.md) the game.

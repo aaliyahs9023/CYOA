@@ -7,4 +7,4 @@
   <img src="../pictures/you-smart.gif"/>
 </p>
 
-<h3 align="center">Play <a href="../README.md">again</a>?</h3>
+<h3 align="center">Play <a href="../haunted-house.md">again</a>?</h3>
