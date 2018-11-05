@@ -4,6 +4,9 @@
 
 <p align="center">
   <img src="../pictures/basement.jpg"/>
+  <h5 align="center">
+    Photo by <a href="https://commons.wikipedia.org/wiki/User:Crisco_1492">Crisco_1492</a>
+  </h5>
 </p>
 
 <h4 align="center">You see a misty figure in front of you.</h4>
