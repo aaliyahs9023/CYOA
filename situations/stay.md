@@ -1,5 +1,7 @@
-### Choose between 2 doors
+## Choose between 2 doors
 
 ![](../pictures/two-doors.jpg)
 
-Which door do you choose, [left](kitchen.md) or [right](basement.md)?
+<h3 align="center">
+  Which door do you choose, the <a href="kitchen.md">left</a> or the <a href="basement.md">right</a>?
+</h3>
