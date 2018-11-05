@@ -3,7 +3,7 @@
 <h3 align="center">You are now in the basement.</h3>
 
 <p align="center">
-  <img src="../pictures/Basement_of_Lawang_Sewu_2011"/>
+  <img src="../pictures/Basement_of_Lawang_Sewu_2011.JPG"/>
 </p>
 
 <h4 align="center">You see a misty figure in front of you.</h4>
